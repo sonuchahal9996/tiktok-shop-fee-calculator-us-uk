@@ -1,0 +1,16 @@
+{
+  "name": "TokFeeCalc - TikTok Shop Fee & Profit Calculator",
+  "short_name": "TokFeeCalc",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#f43f5e",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

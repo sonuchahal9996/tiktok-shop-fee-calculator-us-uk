@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core Pages -->
+  <url><loc>https://tokfeecalc.com/</loc><priority>1.00</priority></url>
+
+  <!-- Country Targets -->
+  <url><loc>https://tokfeecalc.com/?country=US</loc><priority>0.95</priority></url>
+  <url><loc>https://tokfeecalc.com/?country=UK</loc><priority>0.95</priority></url>
+
+  <!-- High-Volume US Price Tiers ($15 to $100) -->
+  <url><loc>https://tokfeecalc.com/?price=15</loc><priority>0.85</priority></url>
+  <url><loc>https://tokfeecalc.com/?price=20</loc><priority>0.85</priority></url>
+  <url><loc>https://tokfeecalc.com/?price=25</loc><priority>0.90</priority></url>
+  <url><loc>https://tokfeecalc.com/?price=30</loc><priority>0.85</priority></url>
+  <url><loc>https://tokfeecalc.com/?price=35</loc><priority>0.90</priority></url>
+  <url><loc>https://tokfeecalc.com/?price=40</loc><priority>0.85</priority></url>
+  <url><loc>https://tokfeecalc.com/?price=50</loc><priority>0.90</priority></url>
+  <url><loc>https://tokfeecalc.com/?price=60</loc><priority>0.80</priority></url>
+  <url><loc>https://tokfeecalc.com/?price=75</loc><priority>0.85</priority></url>
+  <url><loc>https://tokfeecalc.com/?price=100</loc><priority>0.90</priority></url>
+
+  <!-- Category Specific Targets -->
+  <url><loc>https://tokfeecalc.com/?category=apparel</loc><priority>0.90</priority></url>
+  <url><loc>https://tokfeecalc.com/?category=beauty</loc><priority>0.90</priority></url>
+  <url><loc>https://tokfeecalc.com/?category=jewelry</loc><priority>0.85</priority></url>
+  <url><loc>https://tokfeecalc.com/?mode=reverse</loc><priority>0.90</priority></url>
+
+  <!-- Combined Country + Price Targets -->
+  <url><loc>https://tokfeecalc.com/?country=US&amp;price=25</loc><priority>0.85</priority></url>
+  <url><loc>https://tokfeecalc.com/?country=US&amp;price=35</loc><priority>0.90</priority></url>
+  <url><loc>https://tokfeecalc.com/?country=US&amp;price=50</loc><priority>0.85</priority></url>
+  <url><loc>https://tokfeecalc.com/?country=UK&amp;price=20</loc><priority>0.85</priority></url>
+  <url><loc>https://tokfeecalc.com/?country=UK&amp;price=30</loc><priority>0.85</priority></url>
+
+  <!-- Legal & Compliance Pages -->
+  <url><loc>https://tokfeecalc.com/privacy.html</loc><priority>0.30</priority></url>
+  <url><loc>https://tokfeecalc.com/terms.html</loc><priority>0.30</priority></url>
+  <url><loc>https://tokfeecalc.com/contact.html</loc><priority>0.30</priority></url>
+</urlset>
